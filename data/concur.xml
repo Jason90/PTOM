@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Itinerary xmlns="http://www.concursolutions.com/api/travel/trip/2010/06">
+  <id>https://www.concursolutions.com/api/travel/trip/v1.1/gWupaQC$pEhBlgYWIS47uJ$pqU3mUCebF7O5Xg</id>
+  <ItinLocator>gWupaQC$pEhBlgYWIS47uJ$pqU3mUCebF7O5Xg</ItinLocator>
+  <TripId>gWupaQC$pEhBlgYWIS47uJ$pqU3mUCebF7O5Xg</TripId>
+  <BookedVia>Sabre</BookedVia>
+  <BookedByFirstName>Monique</BookedByFirstName>
+  <BookedByLastName>Ellison</BookedByLastName>
+  <ClientLocator>CQ-JH2-E93SI-5HC</ClientLocator>
+  <UserLoginId>mellison@twitter.com</UserLoginId>
+  <DateBookedLocal>2017-08-02T18:29:00</DateBookedLocal>
+  <DateCreatedUtc>2017-08-02T22:29:32</DateCreatedUtc>
+  <DateModifiedUtc>2017-08-02T23:35:21</DateModifiedUtc>
+  <EndDateLocal>2017-09-11T23:59:00</EndDateLocal>
+  <EndDateUtc>2017-09-12T06:59:00</EndDateUtc>
+  <StartDateLocal>2017-09-05T23:59:59</StartDateLocal>
+  <StartDateUtc>2017-09-06T06:59:59</StartDateUtc>
+  <TripName>Hotel Reservation at 1355 MARKET ST, SAN FRANCISCO, CA 94103, USA</TripName>
+  <TripStatus>0</TripStatus>
+  <Bookings>
+    <Booking>
+      <BookingOwner>ConcurTravel</BookingOwner>
+      <Source>ConcurTravel</Source>
+      <BookingSource>Sabre</BookingSource>
+      <DateBookedLocal>2017-08-02T17:29:00</DateBookedLocal>
+      <DateCreatedUtc>2017-08-02T22:29:32</DateCreatedUtc>
+      <DateModifiedUtc>2017-08-02T22:29:36</DateModifiedUtc>
+      <AgencyName>American Express</AgencyName>
+      <AgencyPCC>JU2F</AgencyPCC>
+      <RecordLocator>LKJRZQ</RecordLocator>
+      <Passengers>
+        <Passenger>
+          <NameFirst>MONIQUE D</NameFirst>
+          <NameLast>ELLISON</NameLast>
+        </Passenger>
+      </Passengers>
+      <Segments>
+        <Hotel>
+          <CancellationPolicy>Must cancel 72 hours prior to arrival.</CancellationPolicy>
+          <CheckinTime>00:00</CheckinTime>
+          <CheckoutTime>00:00</CheckoutTime>
+          <ConfirmationNumber>HY0049042793</ConfirmationNumber>
+          <Currency>USD</Currency>
+          <DailyRate>246.1000</DailyRate>
+          <DateCreatedUtc>2017-08-02T22:29:32</DateCreatedUtc>
+          <DateModifiedUtc>2017-09-15T22:59:56</DateModifiedUtc>
+          <DiscountCode>CR67440</DiscountCode>
+          <EndDateLocal>2017-09-11T23:59:00</EndDateLocal>
+          <EndDateUtc>2017-09-12T06:59:00</EndDateUtc>
+          <IsGhostCard>false</IsGhostCard>
+          <IsPreferredVendor>1</IsPreferredVendor>
+          <Name>Grand Hyatt San Francisco</Name>
+          <HotelPropertyId>959</HotelPropertyId>
+          <NumPersons>1</NumPersons>
+          <NumRooms>1</NumRooms>
+          <PhoneNumber>415-398-1234</PhoneNumber>
+          <RateCode>V3KWW10</RateCode>
+          <SpecialInstructions>NONSMOKING EARLYCHCKIN</SpecialInstructions>
+          <StartAddress>345 Stockton St</StartAddress>
+          <StartCity>San Francisco</StartCity>
+          <StartCityCode>SFO</StartCityCode>
+          <StartCountry>US</StartCountry>
+          <StartDateLocal>2017-09-05T23:59:59</StartDateLocal>
+          <StartDateUtc>2017-09-06T06:59:59</StartDateUtc>
+          <StartLatitude>37.789099000000</StartLatitude>
+          <StartLongitude>-122.407141000000</StartLongitude>
+          <StartPostalCode>94108</StartPostalCode>
+          <StartState>California</StartState>
+          <Status>HK</Status>
+          <Vendor>HY</Vendor>
+          <VendorName>Hyatt</VendorName>
+          <Charges>
+            <Fixed>
+              <Amount>319.0000</Amount>
+              <Currency>USD</Currency>
+              <Description>Negotiated Room Rate</Description>
+              <IsPrimary>false</IsPrimary>
+              <SemanticsCode>NEGOTIATEDRATE</SemanticsCode>
+              <SemanticsVendorType>H</SemanticsVendorType>
+              <StartDateLocal>2017-09-05T23:59:00</StartDateLocal>
+            </Fixed>
+            <Rate>
+              <Amount>246.1000</Amount>
+              <Currency>USD</Currency>
+              <IsPrimary>false</IsPrimary>
+              <NumUnits>1.0000</NumUnits>
+              <PerUnit>DAY</PerUnit>
+              <SemanticsCode>ROOMRATE</SemanticsCode>
+              <SemanticsVendorType>H</SemanticsVendorType>
+              <StartDateLocal>2017-09-10T00:00:00</StartDateLocal>
+            </Rate>
+            <Rate>
+              <Amount>246.1000</Amount>
+              <Currency>USD</Currency>
+              <IsPrimary>false</IsPrimary>
+              <NumUnits>3.0000</NumUnits>
+              <PerUnit>DAY</PerUnit>
+              <SemanticsCode>ROOMRATE</SemanticsCode>
+              <SemanticsVendorType>H</SemanticsVendorType>
+              <StartDateLocal>2017-09-05T00:00:00</StartDateLocal>
+            </Rate>
+            <Rate>
+              <Amount>226.1000</Amount>
+              <Currency>USD</Currency>
+              <IsPrimary>false</IsPrimary>
+              <NumUnits>2.0000</NumUnits>
+              <PerUnit>DAY</PerUnit>
+              <SemanticsCode>ROOMRATE</SemanticsCode>
+              <SemanticsVendorType>H</SemanticsVendorType>
+              <StartDateLocal>2017-09-08T00:00:00</StartDateLocal>
+            </Rate>
+          </Charges>
+        </Hotel>
+      </Segments>
+    </Booking>
+  </Bookings>
+  <CustomAttributes>
+    <CustomAttribute>
+      <ExternalId>81285</ExternalId>
+      <DataType>String</DataType>
+      <Name>guestquestion1</Name>
+      <DisplayTitle>Please select the Department associated to this trip</DisplayTitle>
+      <DisplayOnItinerary>false</DisplayOnItinerary>
+    </CustomAttribute>
+  </CustomAttributes>
+</Itinerary>
